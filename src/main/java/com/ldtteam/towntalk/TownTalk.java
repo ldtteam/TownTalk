@@ -43,7 +43,7 @@ public class TownTalk
             }
             catch (IOException e)
             {
-                logger.warn("Ooopsy", e);
+                logger.warn("Ooopsy Daisy. Did a dumdum during resource pack event registration.", e);
             }
 
         }
