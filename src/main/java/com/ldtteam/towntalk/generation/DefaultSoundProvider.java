@@ -6,6 +6,7 @@ import net.minecraft.data.CachedOutput;
 import net.minecraft.data.DataGenerator;
 import net.minecraft.data.DataProvider;
 import net.minecraft.resources.ResourceLocation;
+import org.apache.commons.io.FilenameUtils;
 import org.jetbrains.annotations.NotNull;
 
 import java.io.IOException;
@@ -128,8 +129,10 @@ public class DefaultSoundProvider implements DataProvider
                         final JsonArray soundsArray = new JsonArray();
                         for (final Path soundPath : entry.getValue())
                         {
+                            final ResourceLocation soundId =
+                              new ResourceLocation("minecolonies", FilenameUtils.removeExtension(sourceFolder.relativize(soundPath).toString()).replace('\\', '/'));
                             final JsonObject soundArrayItem = new JsonObject();
-                            soundArrayItem.addProperty("name", new ResourceLocation("minecolonies", sourceFolder.relativize(soundPath).toString().replace('\\', '/')).toString());
+                            soundArrayItem.addProperty("name", soundId.toString());
                             soundArrayItem.addProperty("stream", false);
                             soundsArray.add(soundArrayItem);
                         }
