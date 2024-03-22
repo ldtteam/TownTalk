@@ -17,6 +17,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Map.Entry;
+import java.util.concurrent.CompletableFuture;
 import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
@@ -89,10 +90,10 @@ public class DefaultSoundProvider implements DataProvider
     }
 
     @Override
-    public void run(final @NotNull CachedOutput cache) throws IOException
+    public CompletableFuture<?> run(final @NotNull CachedOutput cache)
     {
         final JsonObject sounds = new JsonObject();
-        final Path outputFolder = this.generator.getOutputFolder();
+        final Path outputFolder = this.generator.getPackOutput().getOutputFolder();
         final Path sourceFolder = outputFolder.getParent().getParent().getParent().resolve("main/resources/respack/assets/minecolonies/sounds");
 
         try (final Stream<Path> genders = Files.list(sourceFolder))
@@ -146,8 +147,12 @@ public class DefaultSoundProvider implements DataProvider
                 }
             }
         }
+        catch (IOException e)
+        {
+            throw new RuntimeException(e);
+        }
 
-        DataProvider.saveStable(cache, sounds, outputFolder.resolve("respack/assets/minecolonies/sounds.json"));
+        return DataProvider.saveStable(cache, sounds, outputFolder.resolve("respack/assets/minecolonies/sounds.json"));
     }
 
     @NotNull

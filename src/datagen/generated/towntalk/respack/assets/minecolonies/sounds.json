@@ -4678,10 +4678,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male1/general/noise/breathingstrongly",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male1/general/noise/coughing",
         "stream": false
       },
@@ -6686,18 +6682,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male3/general/noise/breathing01",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing02",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing03",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male3/general/noise/cough01",
         "stream": false
       },
@@ -7605,10 +7589,6 @@
       },
       {
         "name": "minecolonies:male4/general/noise/dumdidumdumdumdum",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male4/general/noise/heavybreathing",
         "stream": false
       },
       {
@@ -12354,10 +12334,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male1/general/noise/breathingstrongly",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male1/general/noise/coughing",
         "stream": false
       },
@@ -14330,18 +14306,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male3/general/noise/breathing01",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing02",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing03",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male3/general/noise/cough01",
         "stream": false
       },
@@ -15237,10 +15201,6 @@
       },
       {
         "name": "minecolonies:male4/general/noise/dumdidumdumdumdum",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male4/general/noise/heavybreathing",
         "stream": false
       },
       {
@@ -20054,10 +20014,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male1/general/noise/breathingstrongly",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male1/general/noise/coughing",
         "stream": false
       },
@@ -22062,18 +22018,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male3/general/noise/breathing01",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing02",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing03",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male3/general/noise/cough01",
         "stream": false
       },
@@ -22981,10 +22925,6 @@
       },
       {
         "name": "minecolonies:male4/general/noise/dumdidumdumdumdum",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male4/general/noise/heavybreathing",
         "stream": false
       },
       {
@@ -27730,10 +27670,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male1/general/noise/breathingstrongly",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male1/general/noise/coughing",
         "stream": false
       },
@@ -29706,18 +29642,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male3/general/noise/breathing01",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing02",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing03",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male3/general/noise/cough01",
         "stream": false
       },
@@ -30613,10 +30537,6 @@
       },
       {
         "name": "minecolonies:male4/general/noise/dumdidumdumdumdum",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male4/general/noise/heavybreathing",
         "stream": false
       },
       {
@@ -35430,10 +35350,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male1/general/noise/breathingstrongly",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male1/general/noise/coughing",
         "stream": false
       },
@@ -37438,18 +37354,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male3/general/noise/breathing01",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing02",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing03",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male3/general/noise/cough01",
         "stream": false
       },
@@ -38357,10 +38261,6 @@
       },
       {
         "name": "minecolonies:male4/general/noise/dumdidumdumdumdum",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male4/general/noise/heavybreathing",
         "stream": false
       },
       {
@@ -43402,10 +43302,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male1/general/noise/breathingstrongly",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male1/general/noise/coughing",
         "stream": false
       },
@@ -45502,18 +45398,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male3/general/noise/breathing01",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing02",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing03",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male3/general/noise/cough01",
         "stream": false
       },
@@ -46461,10 +46345,6 @@
       },
       {
         "name": "minecolonies:male4/general/noise/dumdidumdumdumdum",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male4/general/noise/heavybreathing",
         "stream": false
       },
       {
@@ -51210,10 +51090,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male1/general/noise/breathingstrongly",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male1/general/noise/coughing",
         "stream": false
       },
@@ -53186,18 +53062,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male3/general/noise/breathing01",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing02",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing03",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male3/general/noise/cough01",
         "stream": false
       },
@@ -54093,10 +53957,6 @@
       },
       {
         "name": "minecolonies:male4/general/noise/dumdidumdumdumdum",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male4/general/noise/heavybreathing",
         "stream": false
       },
       {
@@ -58842,10 +58702,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male1/general/noise/breathingstrongly",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male1/general/noise/coughing",
         "stream": false
       },
@@ -60818,18 +60674,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male3/general/noise/breathing01",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing02",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing03",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male3/general/noise/cough01",
         "stream": false
       },
@@ -61725,10 +61569,6 @@
       },
       {
         "name": "minecolonies:male4/general/noise/dumdidumdumdumdum",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male4/general/noise/heavybreathing",
         "stream": false
       },
       {
@@ -66474,10 +66314,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male1/general/noise/breathingstrongly",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male1/general/noise/coughing",
         "stream": false
       },
@@ -68450,18 +68286,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male3/general/noise/breathing01",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing02",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing03",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male3/general/noise/cough01",
         "stream": false
       },
@@ -69357,10 +69181,6 @@
       },
       {
         "name": "minecolonies:male4/general/noise/dumdidumdumdumdum",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male4/general/noise/heavybreathing",
         "stream": false
       },
       {
@@ -74174,10 +73994,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male1/general/noise/breathingstrongly",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male1/general/noise/coughing",
         "stream": false
       },
@@ -76182,18 +75998,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male3/general/noise/breathing01",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing02",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing03",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male3/general/noise/cough01",
         "stream": false
       },
@@ -77101,10 +76905,6 @@
       },
       {
         "name": "minecolonies:male4/general/noise/dumdidumdumdumdum",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male4/general/noise/heavybreathing",
         "stream": false
       },
       {
@@ -81982,10 +81782,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male1/general/noise/breathingstrongly",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male1/general/noise/coughing",
         "stream": false
       },
@@ -84006,18 +83802,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male3/general/noise/breathing01",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing02",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing03",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male3/general/noise/cough01",
         "stream": false
       },
@@ -84933,10 +84717,6 @@
       },
       {
         "name": "minecolonies:male4/general/noise/dumdidumdumdumdum",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male4/general/noise/heavybreathing",
         "stream": false
       },
       {
@@ -89750,10 +89530,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male1/general/noise/breathingstrongly",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male1/general/noise/coughing",
         "stream": false
       },
@@ -91758,18 +91534,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male3/general/noise/breathing01",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing02",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing03",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male3/general/noise/cough01",
         "stream": false
       },
@@ -92677,10 +92441,6 @@
       },
       {
         "name": "minecolonies:male4/general/noise/dumdidumdumdumdum",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male4/general/noise/heavybreathing",
         "stream": false
       },
       {
@@ -97426,10 +97186,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male1/general/noise/breathingstrongly",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male1/general/noise/coughing",
         "stream": false
       },
@@ -99402,18 +99158,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male3/general/noise/breathing01",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing02",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing03",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male3/general/noise/cough01",
         "stream": false
       },
@@ -100309,10 +100053,6 @@
       },
       {
         "name": "minecolonies:male4/general/noise/dumdidumdumdumdum",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male4/general/noise/heavybreathing",
         "stream": false
       },
       {
@@ -105126,10 +104866,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male1/general/noise/breathingstrongly",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male1/general/noise/coughing",
         "stream": false
       },
@@ -107134,18 +106870,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male3/general/noise/breathing01",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing02",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing03",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male3/general/noise/cough01",
         "stream": false
       },
@@ -108053,10 +107777,6 @@
       },
       {
         "name": "minecolonies:male4/general/noise/dumdidumdumdumdum",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male4/general/noise/heavybreathing",
         "stream": false
       },
       {
@@ -112914,10 +112634,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male1/general/noise/breathingstrongly",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male1/general/noise/coughing",
         "stream": false
       },
@@ -114934,18 +114650,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male3/general/noise/breathing01",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing02",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing03",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male3/general/noise/cough01",
         "stream": false
       },
@@ -115857,10 +115561,6 @@
       },
       {
         "name": "minecolonies:male4/general/noise/dumdidumdumdumdum",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male4/general/noise/heavybreathing",
         "stream": false
       },
       {
@@ -120606,10 +120306,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male1/general/noise/breathingstrongly",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male1/general/noise/coughing",
         "stream": false
       },
@@ -122582,18 +122278,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male3/general/noise/breathing01",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing02",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing03",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male3/general/noise/cough01",
         "stream": false
       },
@@ -123489,10 +123173,6 @@
       },
       {
         "name": "minecolonies:male4/general/noise/dumdidumdumdumdum",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male4/general/noise/heavybreathing",
         "stream": false
       },
       {
@@ -128306,10 +127986,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male1/general/noise/breathingstrongly",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male1/general/noise/coughing",
         "stream": false
       },
@@ -130314,18 +129990,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male3/general/noise/breathing01",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing02",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing03",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male3/general/noise/cough01",
         "stream": false
       },
@@ -131233,10 +130897,6 @@
       },
       {
         "name": "minecolonies:male4/general/noise/dumdidumdumdumdum",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male4/general/noise/heavybreathing",
         "stream": false
       },
       {
@@ -135982,10 +135642,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male1/general/noise/breathingstrongly",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male1/general/noise/coughing",
         "stream": false
       },
@@ -137958,18 +137614,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male3/general/noise/breathing01",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing02",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing03",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male3/general/noise/cough01",
         "stream": false
       },
@@ -138865,10 +138509,6 @@
       },
       {
         "name": "minecolonies:male4/general/noise/dumdidumdumdumdum",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male4/general/noise/heavybreathing",
         "stream": false
       },
       {
@@ -143746,10 +143386,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male1/general/noise/breathingstrongly",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male1/general/noise/coughing",
         "stream": false
       },
@@ -145790,18 +145426,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male3/general/noise/breathing01",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing02",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing03",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male3/general/noise/cough01",
         "stream": false
       },
@@ -146721,10 +146345,6 @@
       },
       {
         "name": "minecolonies:male4/general/noise/dumdidumdumdumdum",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male4/general/noise/heavybreathing",
         "stream": false
       },
       {
@@ -151470,10 +151090,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male1/general/noise/breathingstrongly",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male1/general/noise/coughing",
         "stream": false
       },
@@ -153446,18 +153062,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male3/general/noise/breathing01",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing02",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing03",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male3/general/noise/cough01",
         "stream": false
       },
@@ -154353,10 +153957,6 @@
       },
       {
         "name": "minecolonies:male4/general/noise/dumdidumdumdumdum",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male4/general/noise/heavybreathing",
         "stream": false
       },
       {
@@ -159170,10 +158770,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male1/general/noise/breathingstrongly",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male1/general/noise/coughing",
         "stream": false
       },
@@ -161178,18 +160774,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male3/general/noise/breathing01",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing02",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing03",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male3/general/noise/cough01",
         "stream": false
       },
@@ -162097,10 +161681,6 @@
       },
       {
         "name": "minecolonies:male4/general/noise/dumdidumdumdumdum",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male4/general/noise/heavybreathing",
         "stream": false
       },
       {
@@ -166866,10 +166446,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male1/general/noise/breathingstrongly",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male1/general/noise/coughing",
         "stream": false
       },
@@ -168854,18 +168430,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male3/general/noise/breathing01",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing02",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing03",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male3/general/noise/cough01",
         "stream": false
       },
@@ -169765,10 +169329,6 @@
       },
       {
         "name": "minecolonies:male4/general/noise/dumdidumdumdumdum",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male4/general/noise/heavybreathing",
         "stream": false
       },
       {
@@ -174582,10 +174142,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male1/general/noise/breathingstrongly",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male1/general/noise/coughing",
         "stream": false
       },
@@ -176590,18 +176146,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male3/general/noise/breathing01",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing02",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing03",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male3/general/noise/cough01",
         "stream": false
       },
@@ -177509,10 +177053,6 @@
       },
       {
         "name": "minecolonies:male4/general/noise/dumdidumdumdumdum",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male4/general/noise/heavybreathing",
         "stream": false
       },
       {
@@ -182258,10 +181798,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male1/general/noise/breathingstrongly",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male1/general/noise/coughing",
         "stream": false
       },
@@ -184234,18 +183770,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male3/general/noise/breathing01",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing02",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing03",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male3/general/noise/cough01",
         "stream": false
       },
@@ -185141,10 +184665,6 @@
       },
       {
         "name": "minecolonies:male4/general/noise/dumdidumdumdumdum",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male4/general/noise/heavybreathing",
         "stream": false
       },
       {
@@ -189966,10 +189486,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male1/general/noise/breathingstrongly",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male1/general/noise/coughing",
         "stream": false
       },
@@ -191986,18 +191502,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male3/general/noise/breathing01",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing02",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing03",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male3/general/noise/cough01",
         "stream": false
       },
@@ -192909,10 +192413,6 @@
       },
       {
         "name": "minecolonies:male4/general/noise/dumdidumdumdumdum",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male4/general/noise/heavybreathing",
         "stream": false
       },
       {
@@ -197710,10 +197210,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male1/general/noise/breathingstrongly",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male1/general/noise/coughing",
         "stream": false
       },
@@ -199710,18 +199206,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male3/general/noise/breathing01",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing02",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing03",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male3/general/noise/cough01",
         "stream": false
       },
@@ -200625,10 +200109,6 @@
       },
       {
         "name": "minecolonies:male4/general/noise/dumdidumdumdumdum",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male4/general/noise/heavybreathing",
         "stream": false
       },
       {
@@ -205442,10 +204922,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male1/general/noise/breathingstrongly",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male1/general/noise/coughing",
         "stream": false
       },
@@ -207450,18 +206926,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male3/general/noise/breathing01",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing02",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing03",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male3/general/noise/cough01",
         "stream": false
       },
@@ -208369,10 +207833,6 @@
       },
       {
         "name": "minecolonies:male4/general/noise/dumdidumdumdumdum",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male4/general/noise/heavybreathing",
         "stream": false
       },
       {
@@ -213250,10 +212710,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male1/general/noise/breathingstrongly",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male1/general/noise/coughing",
         "stream": false
       },
@@ -215306,18 +214762,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male3/general/noise/breathing01",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing02",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing03",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male3/general/noise/cough01",
         "stream": false
       },
@@ -216241,10 +215685,6 @@
       },
       {
         "name": "minecolonies:male4/general/noise/dumdidumdumdumdum",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male4/general/noise/heavybreathing",
         "stream": false
       },
       {
@@ -220990,10 +220430,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male1/general/noise/breathingstrongly",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male1/general/noise/coughing",
         "stream": false
       },
@@ -222966,18 +222402,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male3/general/noise/breathing01",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing02",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing03",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male3/general/noise/cough01",
         "stream": false
       },
@@ -223873,10 +223297,6 @@
       },
       {
         "name": "minecolonies:male4/general/noise/dumdidumdumdumdum",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male4/general/noise/heavybreathing",
         "stream": false
       },
       {
@@ -228622,10 +228042,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male1/general/noise/breathingstrongly",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male1/general/noise/coughing",
         "stream": false
       },
@@ -230598,18 +230014,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male3/general/noise/breathing01",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing02",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing03",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male3/general/noise/cough01",
         "stream": false
       },
@@ -231505,10 +230909,6 @@
       },
       {
         "name": "minecolonies:male4/general/noise/dumdidumdumdumdum",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male4/general/noise/heavybreathing",
         "stream": false
       },
       {
@@ -236254,10 +235654,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male1/general/noise/breathingstrongly",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male1/general/noise/coughing",
         "stream": false
       },
@@ -238230,18 +237626,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male3/general/noise/breathing01",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing02",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing03",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male3/general/noise/cough01",
         "stream": false
       },
@@ -239137,10 +238521,6 @@
       },
       {
         "name": "minecolonies:male4/general/noise/dumdidumdumdumdum",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male4/general/noise/heavybreathing",
         "stream": false
       },
       {
@@ -243886,10 +243266,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male1/general/noise/breathingstrongly",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male1/general/noise/coughing",
         "stream": false
       },
@@ -245862,18 +245238,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male3/general/noise/breathing01",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing02",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing03",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male3/general/noise/cough01",
         "stream": false
       },
@@ -246769,10 +246133,6 @@
       },
       {
         "name": "minecolonies:male4/general/noise/dumdidumdumdumdum",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male4/general/noise/heavybreathing",
         "stream": false
       },
       {
@@ -251518,10 +250878,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male1/general/noise/breathingstrongly",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male1/general/noise/coughing",
         "stream": false
       },
@@ -253494,18 +252850,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male3/general/noise/breathing01",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing02",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing03",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male3/general/noise/cough01",
         "stream": false
       },
@@ -254401,10 +253745,6 @@
       },
       {
         "name": "minecolonies:male4/general/noise/dumdidumdumdumdum",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male4/general/noise/heavybreathing",
         "stream": false
       },
       {
@@ -259246,10 +258586,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male1/general/noise/breathingstrongly",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male1/general/noise/coughing",
         "stream": false
       },
@@ -261274,18 +260610,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male3/general/noise/breathing01",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing02",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing03",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male3/general/noise/cough01",
         "stream": false
       },
@@ -262197,10 +261521,6 @@
       },
       {
         "name": "minecolonies:male4/general/noise/dumdidumdumdumdum",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male4/general/noise/heavybreathing",
         "stream": false
       },
       {
@@ -266946,10 +266266,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male1/general/noise/breathingstrongly",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male1/general/noise/coughing",
         "stream": false
       },
@@ -268922,18 +268238,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male3/general/noise/breathing01",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing02",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing03",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male3/general/noise/cough01",
         "stream": false
       },
@@ -269829,10 +269133,6 @@
       },
       {
         "name": "minecolonies:male4/general/noise/dumdidumdumdumdum",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male4/general/noise/heavybreathing",
         "stream": false
       },
       {
@@ -274646,10 +273946,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male1/general/noise/breathingstrongly",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male1/general/noise/coughing",
         "stream": false
       },
@@ -276654,18 +275950,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male3/general/noise/breathing01",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing02",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing03",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male3/general/noise/cough01",
         "stream": false
       },
@@ -277573,10 +276857,6 @@
       },
       {
         "name": "minecolonies:male4/general/noise/dumdidumdumdumdum",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male4/general/noise/heavybreathing",
         "stream": false
       },
       {
@@ -282322,10 +281602,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male1/general/noise/breathingstrongly",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male1/general/noise/coughing",
         "stream": false
       },
@@ -284298,18 +283574,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male3/general/noise/breathing01",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing02",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing03",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male3/general/noise/cough01",
         "stream": false
       },
@@ -285205,10 +284469,6 @@
       },
       {
         "name": "minecolonies:male4/general/noise/dumdidumdumdumdum",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male4/general/noise/heavybreathing",
         "stream": false
       },
       {
@@ -289954,10 +289214,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male1/general/noise/breathingstrongly",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male1/general/noise/coughing",
         "stream": false
       },
@@ -291930,18 +291186,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male3/general/noise/breathing01",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing02",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing03",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male3/general/noise/cough01",
         "stream": false
       },
@@ -292837,10 +292081,6 @@
       },
       {
         "name": "minecolonies:male4/general/noise/dumdidumdumdumdum",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male4/general/noise/heavybreathing",
         "stream": false
       },
       {
@@ -297654,10 +296894,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male1/general/noise/breathingstrongly",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male1/general/noise/coughing",
         "stream": false
       },
@@ -299662,18 +298898,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male3/general/noise/breathing01",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing02",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing03",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male3/general/noise/cough01",
         "stream": false
       },
@@ -300581,10 +299805,6 @@
       },
       {
         "name": "minecolonies:male4/general/noise/dumdidumdumdumdum",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male4/general/noise/heavybreathing",
         "stream": false
       },
       {
@@ -305398,10 +304618,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male1/general/noise/breathingstrongly",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male1/general/noise/coughing",
         "stream": false
       },
@@ -307406,18 +306622,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male3/general/noise/breathing01",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing02",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing03",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male3/general/noise/cough01",
         "stream": false
       },
@@ -308325,10 +307529,6 @@
       },
       {
         "name": "minecolonies:male4/general/noise/dumdidumdumdumdum",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male4/general/noise/heavybreathing",
         "stream": false
       },
       {
@@ -313142,10 +312342,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male1/general/noise/breathingstrongly",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male1/general/noise/coughing",
         "stream": false
       },
@@ -315150,18 +314346,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male3/general/noise/breathing01",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing02",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing03",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male3/general/noise/cough01",
         "stream": false
       },
@@ -316069,10 +315253,6 @@
       },
       {
         "name": "minecolonies:male4/general/noise/dumdidumdumdumdum",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male4/general/noise/heavybreathing",
         "stream": false
       },
       {
@@ -320818,10 +319998,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male1/general/noise/breathingstrongly",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male1/general/noise/coughing",
         "stream": false
       },
@@ -322794,18 +321970,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male3/general/noise/breathing01",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing02",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing03",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male3/general/noise/cough01",
         "stream": false
       },
@@ -323701,10 +322865,6 @@
       },
       {
         "name": "minecolonies:male4/general/noise/dumdidumdumdumdum",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male4/general/noise/heavybreathing",
         "stream": false
       },
       {
@@ -328450,10 +327610,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male1/general/noise/breathingstrongly",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male1/general/noise/coughing",
         "stream": false
       },
@@ -330426,18 +329582,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male3/general/noise/breathing01",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing02",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing03",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male3/general/noise/cough01",
         "stream": false
       },
@@ -331333,10 +330477,6 @@
       },
       {
         "name": "minecolonies:male4/general/noise/dumdidumdumdumdum",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male4/general/noise/heavybreathing",
         "stream": false
       },
       {
@@ -336082,10 +335222,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male1/general/noise/breathingstrongly",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male1/general/noise/coughing",
         "stream": false
       },
@@ -338058,18 +337194,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male3/general/noise/breathing01",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing02",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing03",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male3/general/noise/cough01",
         "stream": false
       },
@@ -338965,10 +338089,6 @@
       },
       {
         "name": "minecolonies:male4/general/noise/dumdidumdumdumdum",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male4/general/noise/heavybreathing",
         "stream": false
       },
       {
@@ -343714,10 +342834,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male1/general/noise/breathingstrongly",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male1/general/noise/coughing",
         "stream": false
       },
@@ -345690,18 +344806,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male3/general/noise/breathing01",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing02",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing03",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male3/general/noise/cough01",
         "stream": false
       },
@@ -346597,10 +345701,6 @@
       },
       {
         "name": "minecolonies:male4/general/noise/dumdidumdumdumdum",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male4/general/noise/heavybreathing",
         "stream": false
       },
       {
@@ -351426,10 +350526,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male1/general/noise/breathingstrongly",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male1/general/noise/coughing",
         "stream": false
       },
@@ -353422,18 +352518,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male3/general/noise/breathing01",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing02",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing03",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male3/general/noise/cough01",
         "stream": false
       },
@@ -354349,10 +353433,6 @@
       },
       {
         "name": "minecolonies:male4/general/noise/dumdidumdumdumdum",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male4/general/noise/heavybreathing",
         "stream": false
       },
       {
@@ -359074,10 +358154,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male1/general/noise/breathingstrongly",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male1/general/noise/coughing",
         "stream": false
       },
@@ -360986,18 +360062,6 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecolonies:male3/general/noise/breathing01",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing02",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male3/general/noise/breathing03",
-        "stream": false
-      },
-      {
         "name": "minecolonies:male3/general/noise/cough01",
         "stream": false
       },
@@ -361889,10 +360953,6 @@
       },
       {
         "name": "minecolonies:male4/general/noise/dumdidumdumdumdum",
-        "stream": false
-      },
-      {
-        "name": "minecolonies:male4/general/noise/heavybreathing",
         "stream": false
       },
       {
