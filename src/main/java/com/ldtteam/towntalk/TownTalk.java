@@ -1,9 +1,12 @@
 package com.ldtteam.towntalk;
 
+import com.ldtteam.towntalk.generation.DefaultSoundProvider;
+import net.minecraft.data.DataGenerator;
 import net.minecraft.network.chat.Component;
 import net.minecraft.server.packs.PackType;
 import net.minecraft.server.packs.repository.Pack;
 import net.minecraft.server.packs.repository.PackSource;
+import net.minecraftforge.data.event.GatherDataEvent;
 import net.minecraftforge.event.AddPackFindersEvent;
 import net.minecraftforge.fml.ModList;
 import net.minecraftforge.fml.common.Mod;
@@ -19,7 +22,14 @@ public class TownTalk
 
     public TownTalk()
     {
+        FMLJavaModLoadingContext.get().getModEventBus().addListener(this::dataGeneratorSetup);
         FMLJavaModLoadingContext.get().getModEventBus().addListener(this::addResourcePack);
+    }
+
+    public void dataGeneratorSetup(final GatherDataEvent event)
+    {
+        final DataGenerator generator = event.getGenerator();
+        generator.addProvider(event.includeClient(), new DefaultSoundProvider(generator));
     }
 
     public void addResourcePack(final AddPackFindersEvent event)
