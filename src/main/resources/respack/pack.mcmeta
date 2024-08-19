@@ -1,8 +1,12 @@
 {
-    "pack": {
-        "pack_format": 9,
-        "forge:resource_pack_format": 9,
-        "forge:data_pack_format": 10,
-        "description": "towntalk resources"
-    }
+  "pack": {
+    "description": {
+      "translate": "Town Talk Resources"
+    },
+    "pack_format": 48,
+    "supported_formats": [
+      0,
+      2147483647
+    ]
+  }
 }

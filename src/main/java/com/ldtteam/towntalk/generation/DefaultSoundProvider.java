@@ -131,7 +131,7 @@ public class DefaultSoundProvider implements DataProvider
                         for (final Path soundPath : entry.getValue())
                         {
                             final ResourceLocation soundId =
-                              new ResourceLocation("minecolonies", FilenameUtils.removeExtension(sourceFolder.relativize(soundPath).toString()).replace('\\', '/'));
+                               ResourceLocation.fromNamespaceAndPath("minecolonies", FilenameUtils.removeExtension(sourceFolder.relativize(soundPath).toString()).replace('\\', '/'));
                             final JsonObject soundArrayItem = new JsonObject();
                             soundArrayItem.addProperty("name", soundId.toString());
                             soundArrayItem.addProperty("stream", false);
