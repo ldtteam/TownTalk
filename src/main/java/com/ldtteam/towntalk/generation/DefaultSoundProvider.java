@@ -94,7 +94,7 @@ public class DefaultSoundProvider implements DataProvider
     {
         final JsonObject sounds = new JsonObject();
         final Path outputFolder = this.generator.getPackOutput().getOutputFolder();
-        final Path sourceFolder = outputFolder.getParent().getParent().getParent().resolve("main/resources/respack/assets/minecolonies/sounds");
+        final Path sourceFolder = outputFolder.getParent().getParent().resolve("main/resources/respack/assets/minecolonies/sounds");
 
         try (final Stream<Path> genders = Files.list(sourceFolder))
         {
