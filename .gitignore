@@ -4,3 +4,7 @@
 build/
 run/
 /src/datagen/generated/towntalk/.cache/
+
+runs/
+
+src/generated/resources/.cache/
