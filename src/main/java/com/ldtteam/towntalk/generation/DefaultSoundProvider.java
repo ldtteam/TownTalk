@@ -9,6 +9,7 @@ import net.minecraft.resources.ResourceLocation;
 import org.apache.commons.io.FilenameUtils;
 import org.jetbrains.annotations.NotNull;
 
+import java.io.File;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
@@ -86,6 +87,7 @@ public class DefaultSoundProvider implements DataProvider
           new DirectorySpec("druid", true, false),
           new DirectorySpec("alchemist", true, true),
           new DirectorySpec("visitor", false, false),
+          new DirectorySpec("chef", false, false),
           new DirectorySpec("unemployed", false, false));
     }
 
@@ -107,9 +109,7 @@ public class DefaultSoundProvider implements DataProvider
 
                 for (final DirectorySpec spec : directoriesToTraverse)
                 {
-                    final Map<String, List<Path>> allCategories = generalCategories.entrySet().stream()
-                                                                    .collect(Collectors.toMap(Entry::getKey, e -> new ArrayList<>(e.getValue())));
-
+                    final Map<String, List<Path>> allCategories = generalCategories.entrySet().stream().collect(Collectors.toMap(Entry::getKey, e -> new ArrayList<>(e.getValue())));
                     if (Files.exists(gender.resolve(spec.name)))
                     {
                         parseCategories(gender.resolve(spec.name), allCategories);
@@ -169,7 +169,7 @@ public class DefaultSoundProvider implements DataProvider
             for (final Path sound : sounds.filter(Files::isRegularFile).toList())
             {
                 final Path relative = root.relativize(sound);
-                final String[] split = relative.toString().split(Pattern.quote("\\"));
+                final String[] split = relative.toString().split(Pattern.quote(File.separator));
 
                 if (split.length == 1)
                 {
